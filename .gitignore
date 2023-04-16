@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+main
+vmc
+vanilla/
+*.dSYM
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
